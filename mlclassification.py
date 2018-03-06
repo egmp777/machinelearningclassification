@@ -4,7 +4,7 @@ import scipy
 import matplotlib.pyplot as plt
 from sklearn import preprocessing
 
-from sklearn import neighbors
+from learn import neighbors
 from sklearn.cross_validation import train_test_split
 from sklearn import metrics
 import knnplots
